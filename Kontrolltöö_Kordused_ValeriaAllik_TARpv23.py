@@ -39,16 +39,7 @@ while True:
     break
 
 
-#3
-import random
-N=int(input("Sisesta numbrid : "))
-positivset=0
-mittepositiivsed=0
-for i in range(N):
-    if N > 0:
-        positivset +=1
-    mittepositiivsed +=1
-print("positivsed : ")
+
 
 
 #4
